@@ -14,6 +14,6 @@ setup (
     long_description=readme,
     long_description_content_type='text/markdown',
     install_requires=[''],
-    url='',
+    url='https://github.com/arshad-shah/django_key',
     author_email='shaharshad57@gmail.com'
 )
